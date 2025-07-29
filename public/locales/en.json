@@ -1,0 +1,197 @@
+{
+  "languageSwitcher": {
+    "english": "English",
+    "russian": "Russian",
+    "ukrainian": "Ukrainian"
+  },
+  "status": {
+    "order_paid_success": "Order successfully paid! Information sent to email.",
+    "email_verified_success": "Email successfully verified!"
+  },
+  "allPizzasTitle": "All Pizzas",
+  "searchInputPlaceholder": "Search...",
+  "header": {
+    "logoTitle": "Next Pizza",
+    "search_pizza_placeholder": "Find a pizza...",
+    "profileButton": "Profile",
+    "signInButton": "Sign In"
+  },
+  "category": {
+    "pizzas": "Pizzas",
+    "breakfast": "Breakfast",
+    "snacks": "Snacks",
+    "drinks": "Drinks",
+    "cocktails": "Cocktails"
+  },
+  "filters": {
+    "title": "Filter",
+    "pizzaTypesText": "Dough Type",
+    "pizzaType": {
+      "thin": "Thin",
+      "traditional": "Traditional"
+    },
+    "pizzaSize": {
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large"
+    },
+    "sizes": {
+      "title": "Sizes",
+      "sm": "cm"
+    },
+    "pricesRangeTitle": "Price from and to:",
+    "ingredientsTitle": "Ingredients",
+    "showAll": "Show All",
+    "hide": "Hide"
+  },
+  "ingredient": {
+    "cheeseFilledCrust": "Cheese-filled crust",
+    "creamyMozzarella": "Creamy mozzarella",
+    "cheddarAndParmesanCheeses": "Cheddar and parmesan cheeses",
+    "spicyJalapenoPeppers": "Spicy jalapeño peppers",
+    "tenderChicken": "Tender chicken",
+    "mushrooms": "Mushrooms",
+    "ham": "Ham",
+    "spicyPepperoni": "Spicy pepperoni",
+    "spicyChorizo": "Spicy chorizo",
+    "pickledCucumbers": "Pickled cucumbers",
+    "freshTomatoes": "Fresh tomatoes",
+    "redOnion": "Red onion",
+    "juicyPineapples": "Juicy pineapples",
+    "italianHerbs": "Italian herbs",
+    "sweetPepper": "Sweet pepper",
+    "fetaCubes": "Feta cubes",
+    "meatballs": "Meatballs"
+  },
+  "product": {
+    "card": {
+      "from": "from",
+      "addButton": "Add"
+    },
+    "list": {
+      "omeletWithHamAndMushrooms": "Omelet with Ham and Mushrooms",
+      "omeletWithPepperoni": "Omelet with Pepperoni",
+      "latte": "Latte",
+      "denwichHamAndCheese": "Denwich Ham & Cheese",
+      "chickenNuggets": "Chicken Nuggets",
+      "ovenBakedPotatoesWithSauce": "Oven-Baked Potatoes with Sauce",
+      "dodster": "Dodster",
+      "spicyDodster": "Spicy Dodster",
+      "bananaMilkshake": "Banana Milkshake",
+      "caramelAppleMilkshake": "Caramel Apple Milkshake",
+      "oreoCookieMilkshake": "Oreo Cookie Milkshake",
+      "classicMilkshake": "Classic Milkshake",
+      "irishCappuccino": "Irish Cappuccino",
+      "caramelCappuccino": "Caramel Cappuccino",
+      "coconutLatte": "Coconut Latte",
+      "americano": "Americano",
+      "pepperoniFresh": "Pepperoni Fresh",
+      "cheese": "Cheese Pizza",
+      "chorizoFresh": "Chorizo Fresh"
+    },
+    "form": {
+      "successToast": "{productName} added to cart",
+      "errorToast": "Failed to add item to cart",
+      "addButton": "Add to cart for {totalPrice} $",
+      "pizzaDescription": "{size} cm, {pizzaType} pizza"
+    }
+  },
+  "cart": {
+    "itemCount": "In cart: <bold>{count, plural, one {# item} other {# items}}</bold>",
+    "emptyMessage": "Add at least one pizza to place an order",
+    "backButton": "Go back",
+    "total": "Total",
+    "checkoutButton": "Checkout",
+    "productDetails": "{typeName} {pizzaSize} cm",
+    "emptyTitle": "Cart is empty"
+  },
+  "auth": {
+    "title": "Account Login",
+    "subtitle": "Enter your email to log in to your account",
+    "email": "E-Mail",
+    "fullName": "Full Name",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "toast": {
+      "login": {
+        "success": "Successfully logged in",
+        "error": "Failed to log in"
+      },
+      "register": {
+        "success": "Successfully registered 📝. Confirm your email",
+        "error": "Incorrect email or password"
+      }
+    },
+    "validation": {
+      "password": "Enter the correct password",
+      "email": "Enter the correct email",
+      "fullName": "Enter your name and surname",
+      "passwordMatch": "Passwords do not match"
+    }
+  },
+  "notAuth": {
+    "title": "Access Denied",
+    "text": "This page can only be viewed by authorized users",
+    "back": "To main page",
+    "refresh": "Refresh"
+  },
+  "profile": {
+    "title": "Personal data | {id}",
+    "email": "E-Mail",
+    "fullName": "Full Name",
+    "password": "New Password",
+    "confirmPassword": "Confirm Password",
+    "saveButton": "Save",
+    "signOutButton": "Log out",
+    "toast": {
+      "success": "Data updated 📝",
+      "error": "Failed to update data"
+    }
+  },
+  "checkout": {
+    "title": "Checkout",
+    "cartTitle": "1. Cart",
+    "personalData": {
+      "title": "2. Personal Data",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "E-Mail",
+      "phone": "Phone"
+    },
+    "deliveryAddress": {
+      "title": "3. Delivery Address",
+      "comment": "Order Comment"
+    },
+    "summary": {
+      "title": "Total:",
+      "total": "Cart total:",
+      "vat": "Taxes:",
+      "delivery": "Delivery:",
+      "checkoutButton": "Proceed to payment"
+    },
+    "toast": {
+      "success": "Order created 📝. Please check your email to proceed with payment",
+      "failed": "Order not created"
+    },
+    "orderEmail": {
+      "emailTitle": "Next Pizza / Order #",
+      "messageTitle": "Order #",
+      "paymentMessage": "Pay for the order <b>{totalAmount}$</b>. Go <link>to this link</link> to complete payment."
+    },
+    "validation": {
+      "name": "Name must contain at least 2 characters",
+      "maxName": "Name must not exceed 50 characters",
+      "lastName": "Last name must contain at least 2 characters",
+      "maxLastName": "Last name must not exceed 50 characters",
+      "email": "Invalid email",
+      "maxEmail": "Email must not exceed 100 characters",
+      "emptyPhone": "Phone number is required",
+      "phone": "Number should be {amount} characters long",
+      "address": "Invalid address",
+      "maxAddress": "Address must not exceed 200 characters",
+      "maxComment": "Comment must not exceed 500 characters"
+    }
+  }
+}
