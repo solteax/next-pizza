@@ -2,7 +2,7 @@
 
 **Here is my new pet project built with Next.js and a modern frontend stack** — created during a break from the latest commercial development, simply for fun, learning, and portfolio-building.
 
-🔗 **Live demo**: [https://next-pizza.vercel.app](https://next-pizza.vercel.app)
+🔗 **Live demo**: [https://next-pizza-teal-three.vercel.app](https://next-pizza-teal-three.vercel.app)
 
 ---
 
@@ -28,6 +28,12 @@ This app was originally started using **Next.js 14**, before the release of vers
 - **Database & Backend**: Prisma + ts-node seed scripts
 - **UI Components**: Radix UI, Lucide Icons
 - **Extras**: React Hot Toast, axios, SendGrid, react-use, react-international-phone, react-insta-stories, and more...
+
+---
+
+## 🧱 What's Next?
+
+There’s still plenty of room for improvement — from small UI refinements to backend enhancements and new features. But for now, I’ve wrapped this version intentionally. It captures exactly what I set out to build: a crisp, focused experiment in modern frontend development.
 
 ---
 
